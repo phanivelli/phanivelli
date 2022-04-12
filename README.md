@@ -4,7 +4,7 @@
 
 ### A Little bit more about me
 
-```http
+```
 const phanivelli = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Python (Basic)"],
