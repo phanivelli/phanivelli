@@ -2,6 +2,31 @@
 
 <br/>
 
-### Languages and Tools
+### A Little bit more about me
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/expore/80688e429a7d4ef2fca1e82350fe8e3517d349d/topics/visual-studio-code/visual-studio-code.png"/>]
+```http
+const phanivelli = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Python (Basic)"],
+  askMeAbout: ["web-dev", "tech"],
+  technologies: {
+    frontEnd: {
+      js: [
+        "Angular",
+        "NGRX",
+        "React",
+        "Redux",
+        "Redux-Thunk",
+        "Nextjs",
+      ],
+      css: ["angular-material", "bootstrap","MUI"],
+    },
+    backEnd: {
+      js: ["node", "express"],
+    },
+    databases: ["mongo"],
+    misc: ["Firebase", "IOT", "RaspberryPi"],
+  },
+  architecture: ["Progressive web applications", "Single page applications"],
+};
+```
