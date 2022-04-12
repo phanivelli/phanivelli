@@ -21,11 +21,6 @@ const phanivelli = {
       ],
       css: ["angular-material", "bootstrap","MUI"],
     },
-    backEnd: {
-      js: ["node", "express"],
-    },
-    databases: ["mongo"],
-    misc: ["Firebase", "IOT", "RaspberryPi"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
 };
