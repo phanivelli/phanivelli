@@ -12,14 +12,12 @@ const phanivelli = {
   technologies: {
     frontEnd: {
       js: [
-        "Angular",
-        "NGRX",
-        "React",
+        "ReactJs",
         "Redux",
         "Redux-Thunk",
         "Nextjs",
       ],
-      css: ["angular-material", "bootstrap","MUI"],
+      css: [ "bootstrap","MUI"],
     },
   },
   architecture: ["Progressive web applications", "Single page applications"],
