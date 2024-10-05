@@ -7,7 +7,7 @@
 ```
 const phanivelli = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Python (Basic)"],
+  code: ["Javascript", "Typescript"],
   askMeAbout: ["web-dev", "tech"],
   technologies: {
     frontEnd: {
@@ -15,7 +15,7 @@ const phanivelli = {
         "ReactJs",
         "Redux",
         "Redux-Thunk",
-        "Nextjs",
+        "AngularJs",
       ],
       css: [ "bootstrap","MUI"],
     },
